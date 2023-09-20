@@ -1,0 +1,16 @@
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\bin\Debug\net6.0-windows\Oinarrizko kalkulagailua.exe
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\bin\Debug\net6.0-windows\Oinarrizko kalkulagailua.deps.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\bin\Debug\net6.0-windows\Oinarrizko kalkulagailua.runtimeconfig.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\bin\Debug\net6.0-windows\Oinarrizko kalkulagailua.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\bin\Debug\net6.0-windows\Oinarrizko kalkulagailua.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko_kalkulagailua.Form1.resources
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.csproj.GenerateResource.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.AssemblyInfoInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.AssemblyInfo.cs
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.csproj.CoreCompileInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\refint\Oinarrizko kalkulagailua.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\Oinarrizko kalkulagailua.genruntimeconfig.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Oinarrizko kalkulagailua\Oinarrizko kalkulagailua\obj\Debug\net6.0-windows\ref\Oinarrizko kalkulagailua.dll

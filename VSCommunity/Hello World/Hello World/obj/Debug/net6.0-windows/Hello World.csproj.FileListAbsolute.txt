@@ -1,0 +1,16 @@
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.exe
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.deps.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.runtimeconfig.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello_World.Form1.resources
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.GenerateResource.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfo.cs
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\refint\Hello World.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.genruntimeconfig.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Hello World\Hello World\obj\Debug\net6.0-windows\ref\Hello World.dll
