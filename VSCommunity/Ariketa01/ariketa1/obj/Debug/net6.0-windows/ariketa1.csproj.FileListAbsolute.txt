@@ -1,0 +1,32 @@
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\bin\Debug\net6.0-windows\ariketa1.exe
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\bin\Debug\net6.0-windows\ariketa1.deps.json
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\bin\Debug\net6.0-windows\ariketa1.runtimeconfig.json
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\bin\Debug\net6.0-windows\ariketa1.dll
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\bin\Debug\net6.0-windows\ariketa1.pdb
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.Form1.resources
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.csproj.GenerateResource.cache
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.AssemblyInfoInputs.cache
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.AssemblyInfo.cs
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.csproj.CoreCompileInputs.cache
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.dll
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\refint\ariketa1.dll
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.pdb
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ariketa1.genruntimeconfig.cache
+C:\Users\unaiwin\source\repos\ariketa1\ariketa1\obj\Debug\net6.0-windows\ref\ariketa1.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\bin\Debug\net6.0-windows\ariketa1.exe
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\bin\Debug\net6.0-windows\ariketa1.deps.json
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\bin\Debug\net6.0-windows\ariketa1.runtimeconfig.json
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\bin\Debug\net6.0-windows\ariketa1.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\bin\Debug\net6.0-windows\ariketa1.pdb
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.Form1.resources
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.csproj.GenerateResource.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.AssemblyInfoInputs.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.AssemblyInfo.cs
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.csproj.CoreCompileInputs.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\refint\ariketa1.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.pdb
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ariketa1.genruntimeconfig.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\Ariketa01\ariketa1\obj\Debug\net6.0-windows\ref\ariketa1.dll
