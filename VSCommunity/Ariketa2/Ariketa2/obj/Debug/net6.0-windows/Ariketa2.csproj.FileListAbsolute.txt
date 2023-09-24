@@ -1,0 +1,16 @@
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.exe
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.deps.json
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.runtimeconfig.json
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.pdb
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.Form1.resources
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.csproj.GenerateResource.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.AssemblyInfoInputs.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.AssemblyInfo.cs
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.csproj.CoreCompileInputs.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\refint\Ariketa2.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.pdb
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.genruntimeconfig.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\ref\Ariketa2.dll
