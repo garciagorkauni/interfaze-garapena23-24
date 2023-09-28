@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\probi\\Desktop\\IG\\1. Erronka\\VSProjektuak\\Ariketa2\\Ariketa2\\Ariketa2.csproj": {}
+    "C:\\Users\\garcia.gorka\\Documents\\DAM-2\\Interfaze Garapena\\interfaze-garapena23-24\\VSCommunity\\Ariketa2\\Ariketa2\\Ariketa2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\probi\\Desktop\\IG\\1. Erronka\\VSProjektuak\\Ariketa2\\Ariketa2\\Ariketa2.csproj": {
+    "C:\\Users\\garcia.gorka\\Documents\\DAM-2\\Interfaze Garapena\\interfaze-garapena23-24\\VSCommunity\\Ariketa2\\Ariketa2\\Ariketa2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\probi\\Desktop\\IG\\1. Erronka\\VSProjektuak\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
+        "projectUniqueName": "C:\\Users\\garcia.gorka\\Documents\\DAM-2\\Interfaze Garapena\\interfaze-garapena23-24\\VSCommunity\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
         "projectName": "Ariketa2",
-        "projectPath": "C:\\Users\\probi\\Desktop\\IG\\1. Erronka\\VSProjektuak\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
-        "packagesPath": "C:\\Users\\probi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\probi\\Desktop\\IG\\1. Erronka\\VSProjektuak\\Ariketa2\\Ariketa2\\obj\\",
+        "projectPath": "C:\\Users\\garcia.gorka\\Documents\\DAM-2\\Interfaze Garapena\\interfaze-garapena23-24\\VSCommunity\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
+        "packagesPath": "C:\\Users\\garcia.gorka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garcia.gorka\\Documents\\DAM-2\\Interfaze Garapena\\interfaze-garapena23-24\\VSCommunity\\Ariketa2\\Ariketa2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\probi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\garcia.gorka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

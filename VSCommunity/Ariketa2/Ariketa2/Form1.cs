@@ -54,8 +54,6 @@ namespace Ariketa2
                     tbEmaitza.Text = "(" + ariketa.a + " + (" + ariketa.b + "x2)" + " + (" + ariketa.c + "x3)" + " + (" + ariketa.d + "x4)/4 = " + ariketa.eragiketaluzea().ToString();
                     i++;
                     break;
-
-
             }
         }
 
