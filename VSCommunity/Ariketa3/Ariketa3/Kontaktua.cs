@@ -23,7 +23,7 @@ namespace Ariketa3
             MessageBox.Show("Kontaktua ondo gorde da");
         }
 
-        public virtual string ToString()
+        public override string ToString()
         {
             return this.izenOsoa + " (" + this.nan + ")";
         }

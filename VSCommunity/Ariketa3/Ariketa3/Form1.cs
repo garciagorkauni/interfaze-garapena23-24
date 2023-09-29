@@ -92,7 +92,7 @@ namespace Ariketa3
             }
             else
             {
-                MessageBox.Show("Datuak falta dira");
+                MessageBox.Show("Mota bat aukera behar duzu");
                 Application.Restart();
             }
 
@@ -102,12 +102,55 @@ namespace Ariketa3
             textBoxEmail.Clear();
             textBoxSoldata.Clear();
             textBoxSegurtasunSoziala.Clear();
+
+            radioButtonKontaktua.Checked = false;
+            radioButtonBezeroa.Checked = false;
+            radioButtonLangilea.Checked = false;
             comboBoxKategoria.Text = "";
         }
 
         private void comboBoxKategoria_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            String erakustekoa = "";
+            switch (comboBoxErakutsi.Text)
+            {
+                case ("Kontaktuak"):
+                    for (int i = 0; i < kontaktuak.Count();i++)
+                    {
+                        erakustekoa += kontaktuak[i] + "\n";
+                    }
+
+                   break;
+
+                case ("Bezeroak"):
+                    for (int i = 0; i < bezeroak.Count(); i++)
+                    {
+                        erakustekoa += bezeroak[i] + "\n";
+                    }
+
+                    break;
+
+                case ("Langileak"):
+                    for (int i = 0; i < langileak.Count(); i++)
+                    {
+                        erakustekoa += langileak[i] + "\n";
+                    }
+
+                    break;
+
+                default:
+                    erakustekoa += "Ez dago horrekin loturiko informazioa";
+                    break;
+
+            }
+
+            MessageBox.Show(erakustekoa);
+            comboBoxErakutsi.Text = "";
         }
     }
 }

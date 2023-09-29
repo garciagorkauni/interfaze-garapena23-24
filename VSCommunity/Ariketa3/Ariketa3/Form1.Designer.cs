@@ -50,6 +50,8 @@
             labelSegurtasunSoziala = new Label();
             buttonGorde = new Button();
             buttonIrten = new Button();
+            buttonErakutsi = new Button();
+            comboBoxErakutsi = new ComboBox();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -278,11 +280,33 @@
             buttonIrten.UseVisualStyleBackColor = true;
             buttonIrten.Click += button1_Click;
             // 
+            // buttonErakutsi
+            // 
+            buttonErakutsi.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
+            buttonErakutsi.Location = new Point(260, 685);
+            buttonErakutsi.Name = "buttonErakutsi";
+            buttonErakutsi.Size = new Size(308, 41);
+            buttonErakutsi.TabIndex = 15;
+            buttonErakutsi.Text = "Erakutsi";
+            buttonErakutsi.UseVisualStyleBackColor = true;
+            buttonErakutsi.Click += button1_Click_1;
+            // 
+            // comboBoxErakutsi
+            // 
+            comboBoxErakutsi.FormattingEnabled = true;
+            comboBoxErakutsi.Items.AddRange(new object[] { "Kontaktuak", "Bezroak", "Langileak" });
+            comboBoxErakutsi.Location = new Point(260, 656);
+            comboBoxErakutsi.Name = "comboBoxErakutsi";
+            comboBoxErakutsi.Size = new Size(308, 23);
+            comboBoxErakutsi.TabIndex = 16;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(811, 596);
+            ClientSize = new Size(811, 738);
+            Controls.Add(comboBoxErakutsi);
+            Controls.Add(buttonErakutsi);
             Controls.Add(buttonIrten);
             Controls.Add(buttonGorde);
             Controls.Add(groupBox3);
@@ -333,5 +357,7 @@
         private Label labelSoldata;
         private Label labelKategoria;
         private ComboBox comboBoxKategoria;
+        private Button buttonErakutsi;
+        private ComboBox comboBoxErakutsi;
     }
 }
