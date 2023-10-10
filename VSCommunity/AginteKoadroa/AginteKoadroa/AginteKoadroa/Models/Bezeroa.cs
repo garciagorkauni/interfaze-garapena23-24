@@ -8,10 +8,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AginteKoadroa.Models
 {
-    internal class Bezeroa
+    public partial class Bezeroa
     {
         [Key]
-        public string Nan { get; set; }
+        public string Id { get; set; }
         public string Izena { get; set; }
         public string Helbidea { get; set; }
         public string Telf { get; set; }

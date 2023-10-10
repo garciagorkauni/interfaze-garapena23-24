@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AginteKoadroa.Models
 {
-    internal class Salmenta
+    public partial class Salmenta
     {
         [Key]
         public int Id { get; set; }

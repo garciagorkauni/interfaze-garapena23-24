@@ -10,7 +10,7 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace AginteKoadroa.Models
 {
-    internal class SalmentaDbContext
+    public class SalmentaDbContext : DbContext
     {
         public SalmentaDbContext() : base(nameOrConnectionString: "SalmentaDbContext")
         { }

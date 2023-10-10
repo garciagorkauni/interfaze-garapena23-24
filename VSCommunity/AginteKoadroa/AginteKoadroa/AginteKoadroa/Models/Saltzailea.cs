@@ -8,10 +8,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AginteKoadroa.Models
 {
-    internal class Saltzailea
+    public partial class Saltzailea
     {
         [Key]
-        public string Nan { get; set; }
+        public string Id { get; set; }
         public string Izena { get; set; }
         public string Taldea { get; set; }
         public virtual List<Bezeroa> Bezeroa { get; set; }
