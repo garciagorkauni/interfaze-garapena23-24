@@ -1,0 +1,8 @@
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\bin\Debug\GrafikoaDLL.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\bin\Debug\GrafikoaDLL.pdb
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.AssemblyReference.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.UserControl1.resources
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.GenerateResource.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.CoreCompileInputs.cache
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\GrafikoaDLL\GrafikoaDLL\GrafikoaDLL\obj\Debug\GrafikoaDLL.pdb

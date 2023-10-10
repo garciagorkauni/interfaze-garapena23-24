@@ -37,6 +37,29 @@ namespace AginteKoadroa
                     }
                 }
             }
+
+            using (var db = new SalmentaDbContext())
+            {
+                var salmentaData = db.Salmenta
+                .Include("Bezeroa")
+                .GroupBy(b => b.Bezeroa.Izena)
+                .ToDictionary(g => g.Key, g => g.Sum(b => b.Zenbatekoa));
+                if (salmentaData != null)
+                {
+                    if (salmentaData.Count > 0)
+                    {
+                        var kontrolak = userControl11.Controls.OfType<System.Windows.Forms.DataVisualization.Charting.Chart>();
+                        foreach (var kontrola in kontrolak)
+                        {
+                            kontrola.Titles[0].Text = "SALMENTA GEHIENGO BEZEROAK";
+                            kontrola.DataSource = salmentaData;
+                            kontrola.Series[0].YValueMembers = "Value";
+                            kontrola.Series[0].XValueMember = "Key";
+                            kontrola.DataBind();
+                        }
+                    }
+                }
+            }
         }
     }
 }

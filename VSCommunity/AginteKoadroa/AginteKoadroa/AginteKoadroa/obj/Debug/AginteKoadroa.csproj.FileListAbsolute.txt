@@ -36,3 +36,5 @@ C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.CopyComplete
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.exe
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.pdb
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDLL.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDLL.pdb
