@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\adibideaMVC\adibideaMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/Agenda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/Agenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/KaixoMundua/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FpeG9NdW5kdWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/KaixoMundua/OngiEtorri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FpeG9NdW5kdWFcT25naUV0b3JyaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/garcia.gorka/Documents/DAM-2/Interfaze Garapena/interfaze-garapena23-24/VSCommunity/adibideaMVC/adibideaMVC/Views/Shared/Error.cshtml]
