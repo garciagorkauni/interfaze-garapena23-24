@@ -172,3 +172,4 @@ C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\RESTAPI\RESTAPI\obj\Debug\net6.0\RESTAPI.pdb
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\RESTAPI\RESTAPI\obj\Debug\net6.0\RESTAPI.genruntimeconfig.cache
 C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\RESTAPI\RESTAPI\obj\Debug\net6.0\ref\RESTAPI.dll
+C:\Users\garcia.gorka\Documents\DAM-2\Interfaze Garapena\interfaze-garapena23-24\VSCommunity\RESTAPI\RESTAPI\obj\Debug\net6.0\RESTAPI.sourcelink.json
